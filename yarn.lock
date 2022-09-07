@@ -132,6 +132,11 @@
     "@babel/helper-validator-identifier" "^7.18.6"
     "to-fast-properties" "^2.0.0"
 
+"@codegewerk/particle-cloud@^1.0.5":
+  "integrity" "sha512-nlOkyMv5Ch66Ri74NOkMhyyFUKUz6OWnydDqMFJFZgbd6inZxIvR90ZUGP6RqvY9SeMW4G3sFLL7xqR+kFb9pA=="
+  "resolved" "https://registry.npmjs.org/@codegewerk/particle-cloud/-/particle-cloud-1.0.5.tgz"
+  "version" "1.0.5"
+
 "@emotion/is-prop-valid@^1.1.0":
   "integrity" "sha512-3aDpDprjM0AwaxGE09bOPkNxHpBd+kA6jty3RnaEXdweX1DF1U3VQpPYb0g1IStAuK7SVQ1cy+bNBBKp4W3Fjg=="
   "resolved" "https://registry.npmjs.org/@emotion/is-prop-valid/-/is-prop-valid-1.2.0.tgz"

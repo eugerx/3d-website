@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@codegewerk/particle-cloud": "^1.0.5",
     "@splinetool/react-spline": "^2.2.2",
     "@splinetool/runtime": "^0.9.105",
     "next": "12.2.5",

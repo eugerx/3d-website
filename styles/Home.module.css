@@ -52,7 +52,8 @@
 } */
 
 .spline {
-  overflow-y: visible;
+  display: absolute;
+  border: 1px solid red;
 }
 .splineContainer {
   position: relative;

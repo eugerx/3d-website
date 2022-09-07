@@ -10,6 +10,7 @@ export default function Navbar() {
         <a href="#">WORKS</a>
       </div>
       <h1>EUGEr.</h1>
+      <h2 className={styles.modal}>m</h2>
     </nav>
   );
 }
